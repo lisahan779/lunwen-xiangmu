@@ -1,0 +1,2106 @@
+{
+  "hots": [
+    {
+      "name": "7小时保温  热水袋"
+    },
+    {
+      "name": "除甲醛神器35元"
+    },
+    {
+      "name": "颈椎按摩仪 直降70"
+    },
+    {
+      "name": "暖风机"
+    },
+    {
+      "name": "氨基酸洁面"
+    },
+    {
+      "name": "电热毯"
+    },
+    {
+      "name": "洗衣液"
+    }
+  ],
+  "historys": [
+    {
+      "name": "夏季衣服",
+      "id": 1
+    },
+    {
+      "name": "洗衣机",
+      "id": 2
+    },
+    {
+      "name": "夏季衣服",
+      "id": 3
+    },
+    {
+      "name": "洗衣粉",
+      "id": 4
+    },
+    {
+      "name": "夏季连衣裙",
+      "id": 5
+    },
+    {
+      "name": "夏季衣服",
+      "id": 6
+    },
+    {
+      "name": "夏季衣服",
+      "id": 7
+    },
+    {
+      "name": "洗衣机",
+      "id": 8
+    }
+  ],
+  "results": [
+    {
+      "id": "001",
+      "name": "洗衣液"
+    },
+    {
+      "id": "002",
+      "name": "夏季衣服"
+    },
+    {
+      "id": "003",
+      "name": "洗衣机"
+    },
+    {
+      "id": "004",
+      "name": "洗衣粉"
+    },
+    {
+      "id": "005",
+      "name": "夏季连衣裙"
+    },
+    {
+      "id": "006",
+      "name": "连衣裙"
+    }
+  ],
+  "types": [
+    {
+      "id": "001",
+      "name": "你可能还喜欢"
+    },
+    {
+      "id": "002",
+      "name": "24小时  热销"
+    }
+  ],
+  "likes": [
+    {
+      "img": "static/img/detile-like1.jpg",
+      "conten": "生肖普洱熟茶礼盒",
+      "number": "200克",
+      "price": "188",
+      "type": "你可能还喜欢",
+      "describe": "特价",
+      "id": 1
+    },
+    {
+      "img": "static/img/detile-like2.jpg",
+      "conten": "诸事如意一壶一茶",
+      "number": "礼盒",
+      "type": "24小时  热销",
+      "price": "518",
+      "describe": "特价",
+      "id": 1
+    },
+    {
+      "img": "static/img/detile-like3.jpg",
+      "conten": "胎菊",
+      "number": "",
+      "type": "24小时  热销",
+      "price": "20",
+      "describe": "满6免1",
+      "id": 1
+    },
+    {
+      "img": "static/img/detile-like4.jpg",
+      "conten": "云南红茶（滇茶）",
+      "number": "110克",
+      "type": "你可能还喜欢",
+      "price": "88",
+      "describe": "新品尝鲜价",
+      "id": 1
+    },
+    {
+      "img": "static/img/detile-like1.jpg",
+      "conten": "茉莉花茶 100克",
+      "number": "",
+      "type": "24小时  热销",
+      "price": "88",
+      "describe": "新品尝鲜价",
+      "id": 2
+    },
+    {
+      "img": "static/img/detile-like2.jpg",
+      "conten": "正山小种 100克",
+      "number": "",
+      "type": "你可能还喜欢",
+      "price": "108",
+      "describe": "满赠",
+      "id": 2
+    },
+    {
+      "img": "static/img/detile-like1.jpg",
+      "conten": "生肖普洱熟茶礼盒",
+      "number": "200克",
+      "price": "188",
+      "type": "你可能还喜欢",
+      "describe": "特价",
+      "id": 2
+    },
+    {
+      "img": "static/img/detile-like2.jpg",
+      "conten": "诸事如意一壶一茶",
+      "number": "礼盒",
+      "type": "24小时  热销",
+      "price": "518",
+      "describe": "特价",
+      "id": 2
+    },
+    {
+      "img": "static/img/detile-like3.jpg",
+      "conten": "胎菊",
+      "number": "",
+      "type": "24小时  热销",
+      "price": "20",
+      "describe": "满6免1",
+      "id": 2
+    },
+    {
+      "img": "static/img/detile-like4.jpg",
+      "conten": "云南红茶（滇茶）",
+      "number": "110克",
+      "type": "你可能还喜欢",
+      "price": "88",
+      "describe": "新品尝鲜价",
+      "id": 2
+    },
+    {
+      "img": "static/img/detile-like1.jpg",
+      "conten": "茉莉花茶 100克",
+      "number": "",
+      "type": "24小时  热销",
+      "price": "88",
+      "describe": "新品尝鲜价",
+      "id": 2
+    },
+    {
+      "img": "static/img/detile-like2.jpg",
+      "conten": "正山小种 100克",
+      "number": "",
+      "type": "你可能还喜欢",
+      "price": "108",
+      "describe": "满赠",
+      "id": 2
+    }
+  ],
+  "banners": [
+    {
+      "bgimgs": "static/img/detile-bg3.jpg"
+    },
+    {
+      "bgimgs": "static/img/detile-bg6.jpg"
+    },
+    {
+      "bgimgs": "static/img/detile-bg0.jpg"
+    },
+    {
+      "bgimgs": "static/img/detile-bg3.jpg"
+    },
+    {
+      "bgimgs": "static/img/detile-bg0.jpg"
+    }
+  ],
+  "books": [
+    {
+      "id": "01",
+      "ms1": "狂欢特惠",
+      "ms2": "谷风一木四层印花手帕纸",
+      "name": "神奈川红手帕纸",
+      "img": "static/img/detile-bg4.jpg",
+      "guige1": "一包十小包",
+      "guige2": "一包八小包",
+      "guige3": "一包七小包",
+      "guige4": "一包五小包",
+      "guige5": "一包十二小包",
+      "price": 5.5,
+      "count": 1
+    },
+    {
+      "id": "02",
+      "ms1": "",
+      "ms2": "无酒精，无漂白，弱酸手口湿巾80抽",
+      "name": "湿巾 80抽*3包",
+      "img": "static/img/detile-bg5.jpg",
+      "guige1": "120抽*3包",
+      "guige2": "200抽*2包",
+      "guige3": "1500抽*5包",
+      "guige4": "",
+      "guige5": "",
+      "price": 26,
+      "count": 1
+    },
+    {
+      "ms1": "宫廷普洱茶",
+      "ms2": "特级普洱原料制茶",
+      "name": "贵州宫廷普洱茶",
+      "img": "static/img/detile-bg4.jpg",
+      "guige1": "一包十小包",
+      "guige2": "一包八小包",
+      "guige3": "一包七小包",
+      "guige4": "一包五小包",
+      "guige5": "一包十二小包",
+      "price": 35.5,
+      "count": 1,
+      "id": "VPlbyh7"
+    }
+  ],
+  "clist": [
+    {
+      "id": "01001",
+      "goodsClass": "推荐专区",
+      "bannerimgs": "static/img/banner1.jpg",
+      "goodstype1": [
+        {
+          "typename": "当季热销",
+          "mintype": [
+            {
+              "typeid": "01",
+              "typepic": "static/img/fnew3.jpg",
+              "typetit": "推荐专区",
+              "goods": [
+                {
+                  "src": "static/img/flike1.jpg",
+                  "tit1": "轻商务  防水自动折叠",
+                  "lastmoney": 50.1,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike2.jpg",
+                  "tit1": "韩国制作  高丽参浓缩",
+                  "lastmoney": 199,
+                  "money": "",
+                  "discount": "满减"
+                },
+                {
+                  "src": "static/img/flike3.jpg",
+                  "tit1": "全价成猫粮1.8千克",
+                  "lastmoney": 88,
+                  "money": "￥99",
+                  "discount": ""
+                }
+              ]
+            },
+            {
+              "typeid": "02",
+              "typepic": "static/img/fnew3.jpg",
+              "typetit": "好物上新",
+              "goods": [
+                {
+                  "src": "../../static/img/flike4.jpg",
+                  "tit1": "美式立体保暖羊毛床垫",
+                  "lastmoney": 50.1,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "../../static/img/flike5.jpg",
+                  "tit1": "秋冬加厚澳洲羊毛被",
+                  "lastmoney": 50.1,
+                  "money": 59,
+                  "discount": ""
+                },
+                {
+                  "src": "../../static/img/flike1.jpg",
+                  "tit1": "轻商务  防水自动折叠",
+                  "lastmoney": 50.1,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "../../static/img/flike2.jpg",
+                  "tit1": "韩国制作  高丽参浓缩",
+                  "lastmoney": 199,
+                  "money": "",
+                  "discount": "满减"
+                }
+              ]
+            },
+            {
+              "typeid": "03",
+              "typepic": "static/img/fnew3.jpg",
+              "typetit": "抄底特惠",
+              "goods": [
+                {
+                  "src": "../../static/img/flike4.jpg",
+                  "tit1": "美式立体保暖羊毛床垫",
+                  "lastmoney": 43.1,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "../../static/img/flike5.jpg",
+                  "tit1": "秋冬加厚澳洲羊毛被",
+                  "lastmoney": 123.1,
+                  "money": 159,
+                  "discount": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "typename": "男装",
+          "mintype": [
+            {
+              "typeid": "01",
+              "typepic": "static/img/fnew6.jpg",
+              "typetit": "男士外套",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "男士加棉卫衣",
+                  "lastmoney": 50.1,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "../../static/img/flike5.jpg",
+                  "tit1": "男士加棉基础休闲夹克",
+                  "lastmoney": 349,
+                  "money": "￥596",
+                  "discount": ""
+                }
+              ]
+            },
+            {
+              "typeid": "02",
+              "typepic": "static/img/fnew6.jpg",
+              "typetit": "男士针织衫",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "男士休闲西装针织衫",
+                  "lastmoney": 324,
+                  "money": "￥559",
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "../../static/img/flike5.jpg",
+                  "tit1": "男士可机洗高领纯羊毛衫",
+                  "lastmoney": 159,
+                  "money": "￥496",
+                  "discount": ""
+                }
+              ]
+            },
+            {
+              "typeid": "03",
+              "typepic": "static/img/fnew6.jpg",
+              "typetit": "男士衬衫",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "男士量体定制经典商务衬衫",
+                  "lastmoney": 324,
+                  "money": "￥559",
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "../../static/img/flike5.jpg",
+                  "tit1": "男士法国雨露棉麻基础衬衫",
+                  "lastmoney": 129,
+                  "money": "￥396",
+                  "discount": ""
+                },
+                {
+                  "src": "../../static/img/flike5.jpg",
+                  "tit1": "男士条纹休闲衬衫",
+                  "lastmoney": 199,
+                  "money": "￥496",
+                  "discount": ""
+                },
+                {
+                  "src": "../../static/img/flike5.jpg",
+                  "tit1": "男士牛津纺长袖衬衫",
+                  "lastmoney": 159,
+                  "money": "￥496",
+                  "discount": ""
+                }
+              ]
+            },
+            {
+              "typeid": "04",
+              "typepic": "static/img/fnew6.jpg",
+              "typetit": "男士牛仔",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "男士防风外穿束脚棉裤",
+                  "lastmoney": 135,
+                  "money": "￥167",
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "../../static/img/flike5.jpg",
+                  "tit1": "男士量体定制经典西裤",
+                  "lastmoney": 129,
+                  "money": "￥396",
+                  "discount": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01002",
+      "goodsClass": "暖冬好物",
+      "bannerimgs": "static/img/banner2.jpg",
+      "goodstype1": [
+        {
+          "typename": "精选美食",
+          "mintype": [
+            {
+              "typeid": "01",
+              "typepic": "static/img/fnew9.jpg",
+              "typetit": "暖冬美食",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "玲珑柑普茶",
+                  "lastmoney": 54,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "../../static/img/flike5.jpg",
+                  "tit1": "996五宝茶",
+                  "lastmoney": 29,
+                  "money": "￥36",
+                  "discount": ""
+                },
+                {
+                  "src": "../../static/img/flike5.jpg",
+                  "tit1": "黑芝麻丸子+红豆薏米",
+                  "lastmoney": 15.5,
+                  "money": "￥41.6",
+                  "discount": ""
+                },
+                {
+                  "src": "../../static/img/flike5.jpg",
+                  "tit1": "天然酵母面包",
+                  "lastmoney": 14.9,
+                  "money": "￥21.6",
+                  "discount": ""
+                }
+              ]
+            },
+            {
+              "typeid": "02",
+              "typepic": "static/img/fnew9.jpg",
+              "typetit": "新品首发",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "雪梨琵琶膏120g",
+                  "lastmoney": 24,
+                  "money": "￥39.9",
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "../../static/img/flike5.jpg",
+                  "tit1": "996五宝茶",
+                  "lastmoney": 29,
+                  "money": "￥36",
+                  "discount": ""
+                },
+                {
+                  "src": "../../static/img/flike5.jpg",
+                  "tit1": "大丈夫冻干牛肉面",
+                  "lastmoney": 25.9,
+                  "money": "￥36.6",
+                  "discount": ""
+                },
+                {
+                  "src": "../../static/img/flike5.jpg",
+                  "tit1": "葵花籽油",
+                  "lastmoney": 67,
+                  "money": "￥79.99",
+                  "discount": ""
+                }
+              ]
+            },
+            {
+              "typeid": "03",
+              "typepic": "static/img/fnew11.jpg",
+              "typetit": "好味精选",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "黄油手工蛋卷",
+                  "lastmoney": 54,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "../../static/img/flike5.jpg",
+                  "tit1": "留心绿豆糕",
+                  "lastmoney": 22.9,
+                  "money": "￥36",
+                  "discount": ""
+                },
+                {
+                  "src": "../../static/img/flike5.jpg",
+                  "tit1": "蔬菜风味牛腩面包",
+                  "lastmoney": 14.9,
+                  "money": "￥21.6",
+                  "discount": "49选三"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "typename": "休闲零食",
+          "mintype": [
+            {
+              "typeid": "01",
+              "typepic": "static/img/fnew12.jpg",
+              "typetit": "饼干糕点",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "黄油手工蛋卷",
+                  "lastmoney": 54,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            },
+            {
+              "typeid": "02",
+              "typepic": "static/img/fnew12.jpg",
+              "typetit": "小食糖巧",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "颜如玉。绿豆糕200g",
+                  "lastmoney": 54,
+                  "money": "￥51.2",
+                  "discount": "感恩节特惠"
+                }
+              ]
+            },
+            {
+              "typeid": "03",
+              "typepic": "static/img/fnew12.jpg",
+              "typetit": "肉类零食",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "寿司牛肉",
+                  "lastmoney": 46,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "低脂鸡肉",
+                  "lastmoney": 46,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            },
+            {
+              "typeid": "05",
+              "typepic": "static/img/fnew5.jpg",
+              "typetit": "蜜饯果干",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "芒果干 118g*1袋",
+                  "lastmoney": 16,
+                  "money": 29,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "多肉小橘柑45g",
+                  "lastmoney": 9.6,
+                  "money": 14.9,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "typename": "冲饮茗茶",
+          "mintype": [
+            {
+              "typeid": "01",
+              "typepic": "static/img/fnew12.jpg",
+              "typetit": "冲调饮品",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "六国十味",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            },
+            {
+              "typeid": "02",
+              "typepic": "static/img/fnew12.jpg",
+              "typetit": "传统茗茶",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            },
+            {
+              "typeid": "03",
+              "typepic": "static/img/fnew12.jpg",
+              "typetit": "茶包花茶",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "云南红茶280g",
+                  "lastmoney": 26,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01003",
+      "goodsClass": "爆品专区",
+      "bannerimgs": "static/img/banner5.jpg",
+      "goodstype1": [
+        {
+          "typename": "精选美食",
+          "mintype": [
+            {
+              "typeid": "01",
+              "typepic": "static/img/fnew9.jpg",
+              "typetit": "秋冬美食",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            },
+            {
+              "typeid": "02",
+              "typepic": "static/img/fnew9.jpg",
+              "typetit": "新品首发",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "红茶茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            },
+            {
+              "typeid": "03",
+              "typepic": "static/img/fnew11.jpg",
+              "typetit": "好味精选",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "typename": "休闲零食",
+          "mintype": [
+            {
+              "typeid": "01",
+              "typepic": "static/img/fnew12.jpg",
+              "typetit": "饼干糕点",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            },
+            {
+              "typeid": "02",
+              "typepic": "static/img/fnew12.jpg",
+              "typetit": "小食糖巧",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": ""
+                }
+              ]
+            },
+            {
+              "typeid": "03",
+              "typepic": "static/img/fnew12.jpg",
+              "typetit": "肉类零食",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "大红袍",
+                  "lastmoney": 19,
+                  "money": "￥39",
+                  "discount": "特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            },
+            {
+              "typeid": "04",
+              "typepic": "static/img/fnew10.jpg",
+              "typetit": "坚果炒货",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "开心果500g",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "糖炒栗子",
+                  "lastmoney": 16,
+                  "money": 14.9,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "typename": "冲饮茗茶",
+          "mintype": [
+            {
+              "typeid": "01",
+              "typepic": "static/img/fnew12.jpg",
+              "typetit": "饼干糕点",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "鲜花饼100g",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            },
+            {
+              "typeid": "02",
+              "typepic": "static/img/fnew10.jpg",
+              "typetit": "坚果炒货",
+              "goods": [
+                {
+                  "src": "static/img/flike1.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01004",
+      "goodsClass": "新品专区",
+      "bannerimgs": "static/img/banner4.jpg",
+      "goodstype1": [
+        {
+          "typename": "精选美食",
+          "mintype": [
+            {
+              "typeid": "01",
+              "typepic": "static/img/fnew9.jpg",
+              "typetit": "秋冬美食",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "梨",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "苹果",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            },
+            {
+              "typeid": "02",
+              "typepic": "static/img/fnew9.jpg",
+              "typetit": "新品首发",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "typename": "休闲零食",
+          "mintype": [
+            {
+              "typeid": "01",
+              "typepic": "static/img/fnew12.jpg",
+              "typetit": "饼干糕点",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            },
+            {
+              "typeid": "02",
+              "typepic": "static/img/fnew12.jpg",
+              "typetit": "小食糖巧",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            },
+            {
+              "typeid": "03",
+              "typepic": "static/img/fnew10.jpg",
+              "typetit": "坚果",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            },
+            {
+              "typeid": "04",
+              "typepic": "static/img/fnew5.jpg",
+              "typetit": "蜜饯果干",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01005",
+      "goodsClass": "居家生活",
+      "bannerimgs": "static/img/banner1.jpg",
+      "goodstype1": [
+        {
+          "typename": "精选美食",
+          "mintype": [
+            {
+              "typeid": "01",
+              "typepic": "static/img/fnew9.jpg",
+              "typetit": "秋冬美食",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            },
+            {
+              "typeid": "02",
+              "typepic": "static/img/fnew9.jpg",
+              "typetit": "新品首发",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "typename": "休闲零食",
+          "mintype": [
+            {
+              "typeid": "01",
+              "typepic": "static/img/fnew12.jpg",
+              "typetit": "饼干糕点",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            },
+            {
+              "typeid": "02",
+              "typepic": "static/img/fnew12.jpg",
+              "typetit": "小食糖巧",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            },
+            {
+              "typeid": "03",
+              "typepic": "static/img/fnew12.jpg",
+              "typetit": "肉类零食",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            },
+            {
+              "typeid": "04",
+              "typepic": "static/img/fnew10.jpg",
+              "typetit": "坚果炒货",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "typename": "冲饮茗茶",
+          "mintype": [
+            {
+              "typeid": "01",
+              "typepic": "static/img/fnew12.jpg",
+              "typetit": "饼干糕点",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            },
+            {
+              "typeid": "02",
+              "typepic": "static/img/fnew12.jpg",
+              "typetit": "小食糖巧",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01006",
+      "goodsClass": "服饰鞋包",
+      "bannerimgs": "static/img/banner3.jpg",
+      "goodstype1": [
+        {
+          "typename": "精选美食",
+          "mintype": [
+            {
+              "typeid": "01",
+              "typepic": "static/img/fnew9.jpg",
+              "typetit": "秋冬美食",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            },
+            {
+              "typeid": "02",
+              "typepic": "static/img/fnew9.jpg",
+              "typetit": "新品首发",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            },
+            {
+              "typeid": "03",
+              "typepic": "static/img/fnew11.jpg",
+              "typetit": "好味精选",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "typename": "休闲零食",
+          "mintype": [
+            {
+              "typeid": "01",
+              "typepic": "static/img/fnew12.jpg",
+              "typetit": "饼干糕点",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            },
+            {
+              "typeid": "02",
+              "typepic": "static/img/fnew12.jpg",
+              "typetit": "小食糖巧",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            },
+            {
+              "typeid": "03",
+              "typepic": "static/img/fnew12.jpg",
+              "typetit": "肉类零食",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            },
+            {
+              "typeid": "04",
+              "typepic": "static/img/fnew10.jpg",
+              "typetit": "坚果炒货",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            },
+            {
+              "typeid": "05",
+              "typepic": "static/img/fnew5.jpg",
+              "typetit": "蜜饯果干",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "typename": "冲饮茗茶",
+          "mintype": [
+            {
+              "typeid": "01",
+              "typepic": "static/img/fnew12.jpg",
+              "typetit": "饼干糕点",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            },
+            {
+              "typeid": "02",
+              "typepic": "static/img/fnew12.jpg",
+              "typetit": "小食糖巧",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            },
+            {
+              "typeid": "03",
+              "typepic": "static/img/fnew12.jpg",
+              "typetit": "肉类零食",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0107",
+      "goodsClass": "数码家电",
+      "bannerimgs": "static/img/banner1.jpg",
+      "goodstype1": [
+        {
+          "typename": "精选手机",
+          "mintype": [
+            {
+              "typeid": "01",
+              "typepic": "static/img/fnew5.jpg",
+              "typetit": "oppo",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "oppoRemo",
+                  "lastmoney": 5779,
+                  "money": "￥5999",
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "oppoA9",
+                  "lastmoney": 2336,
+                  "money": "￥3259",
+                  "discount": ""
+                }
+              ]
+            },
+            {
+              "typeid": "02",
+              "typepic": "static/img/fnew9.jpg",
+              "typetit": "华为",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "huawei nova5",
+                  "lastmoney": 3445,
+                  "money": "￥3459",
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "hawei Mate20",
+                  "lastmoney": 4356,
+                  "money": "￥4259",
+                  "discount": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "typename": "休闲零食",
+          "mintype": [
+            {
+              "typeid": "01",
+              "typepic": "static/img/fnew12.jpg",
+              "typetit": "饼干糕点",
+              "goods": [
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "宫廷普洱茶",
+                  "lastmoney": 49,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                },
+                {
+                  "src": "static/img/flike4.jpg",
+                  "tit1": "冰糖银耳莲子粥280g",
+                  "lastmoney": 56,
+                  "money": 59,
+                  "discount": "感恩节特惠"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "activebannerinfos": [
+    {
+      "act_tit": "免费体验30天",
+      "act_content": "送一张免邮券再享95折",
+      "actimg_url": "static/img/flike1.jpg"
+    },
+    {
+      "act_tit": "超闪购今日推荐",
+      "act_content": "深补水，活颜保湿乳",
+      "actimg_url": "static/img/flike2.jpg"
+    },
+    {
+      "act_tit": "11月赠品限量领取中",
+      "act_content": "任选一件，0元带走",
+      "actimg_url": "static/img/flike3.jpg"
+    }
+  ],
+  "m_banner": [
+    {
+      "tourl": "#",
+      "mpic": "static/img/banner3.jpg"
+    },
+    {
+      "tourl": "#",
+      "mpic": "static/img/banner4.jpg"
+    },
+    {
+      "tourl": "#",
+      "mpic": "static/img/banner5.jpg"
+    }
+  ],
+  "m_Cls": [
+    {
+      "typeid": "01",
+      "clsname": "专属推荐",
+      "clsgoods": [
+        {
+          "src": "../../static/img/flike1.jpg",
+          "tit1": "轻商务  防水自动折叠",
+          "lastmoney": 50.1,
+          "money": 59,
+          "discount": "感恩节特惠"
+        },
+        {
+          "src": "../../static/img/flike2.jpg",
+          "tit1": "韩国制作  高丽参浓缩",
+          "lastmoney": 199,
+          "money": "",
+          "discount": "满减"
+        },
+        {
+          "src": "../../static/img/flike3.jpg",
+          "tit1": "全价成猫粮1.8千克",
+          "lastmoney": 88,
+          "money": "￥99",
+          "discount": ""
+        },
+        {
+          "src": "../../static/img/flike4.jpg",
+          "tit1": "美式立体保暖羊毛床垫",
+          "lastmoney": 50.1,
+          "money": 59,
+          "discount": "感恩节特惠"
+        },
+        {
+          "src": "../../static/img/flike5.jpg",
+          "tit1": "秋冬加厚澳洲羊毛被",
+          "lastmoney": 50.1,
+          "money": 59,
+          "discount": ""
+        },
+        {
+          "src": "../../static/img/flike1.jpg",
+          "tit1": "轻商务  防水自动折叠",
+          "lastmoney": 50.1,
+          "money": 59,
+          "discount": "感恩节特惠"
+        }
+      ]
+    },
+    {
+      "typeid": "02",
+      "clsname": "最近浏览",
+      "clsgoods": [
+        {
+          "src": "../../static/img/flike2.jpg",
+          "tit1": "韩国制作  高丽参浓缩",
+          "lastmoney": 199,
+          "money": "",
+          "discount": "满减"
+        },
+        {
+          "src": "../../static/img/flike3.jpg",
+          "tit1": "全价成猫粮1.8千克",
+          "lastmoney": 88,
+          "money": "￥99",
+          "discount": ""
+        },
+        {
+          "src": "../../static/img/flike4.jpg",
+          "tit1": "美式立体保暖羊毛床垫",
+          "lastmoney": 50.1,
+          "money": 59,
+          "discount": "感恩节特惠"
+        },
+        {
+          "src": "../../static/img/flike5.jpg",
+          "tit1": "秋冬加厚澳洲羊毛被",
+          "lastmoney": 50.1,
+          "money": 59,
+          "discount": ""
+        }
+      ]
+    },
+    {
+      "typeid": "03",
+      "clsname": "我的收藏",
+      "clsgoods": []
+    }
+  ],
+  "Allcls": [
+    {
+      "id": "01",
+      "typename": "暖冬好物"
+    },
+    {
+      "id": "02",
+      "typename": "爆品专区"
+    },
+    {
+      "id": "03",
+      "typename": "新品专区"
+    },
+    {
+      "id": "04",
+      "typename": "居家生活"
+    },
+    {
+      "id": "05",
+      "typename": "服饰鞋包"
+    },
+    {
+      "id": "06",
+      "typename": "美食酒水"
+    },
+    {
+      "id": "07",
+      "typename": "个护清洁"
+    },
+    {
+      "id": "08",
+      "typename": "母婴亲子"
+    },
+    {
+      "id": "09",
+      "typename": "数码家电"
+    },
+    {
+      "id": "10",
+      "typename": "全球特色"
+    }
+  ],
+  "bannerimg": [
+    {
+      "bid": "11",
+      "img": "static/img/b1.jpg"
+    },
+    {
+      "bid": "12",
+      "img": "static/img/b2.jpg"
+    },
+    {
+      "bid": "13",
+      "img": "static/img/b3.jpg"
+    },
+    {
+      "bid": "14",
+      "img": "static/img/b4.jpg"
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "username": "18394039896",
+      "password": "121212",
+      "isLogin": 1
+    },
+    {
+      "id": 2,
+      "username": "15268973509",
+      "password": "121212",
+      "isLogin": 1
+    },
+    {
+      "id": 3,
+      "username": "18219915022",
+      "password": "1234443",
+      "isLogin": 1
+    }
+  ],
+  "FbannerImgs": [
+    {
+      "src": "../../static/img/Fbanner1.jpg",
+      "href": "http://www.jingdong.com"
+    },
+    {
+      "src": "../../static/img/Fbanner2.jpg",
+      "href": "http://www.jingdong.com"
+    },
+    {
+      "src": "../../static/img/Fbanner3.jpg",
+      "href": "http://www.jingdong.com"
+    },
+    {
+      "src": "../../static/img/Fbanner1.jpg",
+      "href": "http://www.jingdong.com"
+    },
+    {
+      "src": "../../static/img/Fbanner2.jpg",
+      "href": "http://www.jingdong.com"
+    },
+    {
+      "src": "../../static/img/Fbanner3.jpg",
+      "href": "http://www.jingdong.com"
+    }
+  ],
+  "FclassifyImgs": [
+    {
+      "src": "../../static/img/fmyicon1.jpg",
+      "tit": "新品首发"
+    },
+    {
+      "src": "../../static/img/fmyicon2.jpg",
+      "tit": "居家生活"
+    },
+    {
+      "src": "../../static/img/fmyicon3.jpg",
+      "tit": "母婴亲子"
+    },
+    {
+      "src": "../../static/img/fmyicon4.jpg",
+      "tit": "全球美食"
+    },
+    {
+      "src": "../../static/img/fmyicon5.jpg",
+      "tit": "服饰鞋包"
+    },
+    {
+      "src": "../../static/img/fmyicon6.jpg",
+      "tit": "卷皮全球"
+    },
+    {
+      "src": "../../static/img/fmyicon7.jpg",
+      "tit": "穿搭课堂"
+    },
+    {
+      "src": "../../static/img/fmyicon8.jpg",
+      "tit": "超值专区"
+    },
+    {
+      "src": "../../static/img/fmyicon9.jpg",
+      "tit": "奥莱特卖"
+    },
+    {
+      "src": "../../static/img/fmyicon10.jpg",
+      "tit": "超级会员"
+    }
+  ],
+  "FnewImgs": [
+    {
+      "titOne": "美食酒水榜",
+      "titTwo": "好吃不贵",
+      "src1": "../../static/img/fnew1.jpg",
+      "src2": "../../static/img/fnew2.jpg",
+      "src3": "../../static/img/fnew3.jpg",
+      "money1": "￥3.9",
+      "money2": "￥22",
+      "money3": "￥29.9"
+    },
+    {
+      "titOne": "居家生活榜",
+      "titTwo": "镇店之宝",
+      "src1": "../../static/img/fnew4.jpg",
+      "src2": "../../static/img/fnew5.jpg",
+      "src3": "../../static/img/fnew6.jpg",
+      "money1": "￥9.9",
+      "money2": "￥19.9",
+      "money3": "￥45"
+    },
+    {
+      "titOne": "服饰鞋包榜",
+      "titTwo": "穿的舒心",
+      "src1": "../../static/img/fnew7.jpg",
+      "src2": "../../static/img/fnew8.jpg",
+      "src3": "../../static/img/fnew9.jpg",
+      "money1": "￥79",
+      "money2": "￥19.9",
+      "money3": "￥65"
+    },
+    {
+      "titOne": "个性清洁榜",
+      "titTwo": "精致美好",
+      "src1": "../../static/img/fnew10.jpg",
+      "src2": "../../static/img/fnew11.jpg",
+      "src3": "../../static/img/fnew12.jpg",
+      "money1": "￥79",
+      "money2": "￥19.9",
+      "money3": "￥65"
+    },
+    {
+      "titOne": "运动旅行榜",
+      "titTwo": "拉杆箱好",
+      "src1": "../../static/img/fnew13.jpg",
+      "src2": "../../static/img/fnew14.jpg",
+      "src3": "../../static/img/fnew4.jpg",
+      "money1": "￥79",
+      "money2": "￥19.9",
+      "money3": "￥65"
+    }
+  ],
+  "FshoppingImgs": [
+    {
+      "tit1": "断货补单王",
+      "tit2": "紧急补仓疯抢中",
+      "src1": "../../static/img//fnew3.jpg",
+      "src2": "../../static/img//fnew4.jpg"
+    },
+    {
+      "tit1": "无限回购榜单",
+      "tit2": "买了又买的超值好物",
+      "src1": "../../static/img//fnew6.jpg",
+      "src2": "../../static/img//fnew7.jpg"
+    },
+    {
+      "tit1": "冬季上心尝鲜",
+      "tit2": "给与柔软和温暖的神器",
+      "src1": "../../static/img//fnew8.jpg",
+      "src2": "../../static/img//fnew9.jpg"
+    },
+    {
+      "tit1": "女士精选礼物清单",
+      "tit2": "比您更懂女人所爱",
+      "src1": "../../static/img//fnew2.jpg",
+      "src2": "../../static/img//fnew10.jpg"
+    }
+  ],
+  "FlikeImgs": [
+    {
+      "src": "../../static/img/flike1.jpg",
+      "tit1": "轻商务  防水自动折叠",
+      "lastmoney": "￥50.1",
+      "money": "￥59",
+      "discount": "感恩节特惠"
+    },
+    {
+      "src": "../../static/img/flike2.jpg",
+      "tit1": "韩国制作  高丽参浓缩",
+      "lastmoney": "￥199",
+      "money": "",
+      "discount": "满减"
+    },
+    {
+      "src": "../../static/img/flike3.jpg",
+      "tit1": "全价成猫粮1.8千克",
+      "lastmoney": "￥88",
+      "money": "￥99",
+      "discount": ""
+    },
+    {
+      "src": "../../static/img/flike4.jpg",
+      "tit1": "美式立体保暖羊毛床垫",
+      "lastmoney": "￥50.1",
+      "money": "￥59",
+      "discount": "感恩节特惠"
+    },
+    {
+      "src": "../../static/img/flike5.jpg",
+      "tit1": "秋冬加厚澳洲羊毛被",
+      "lastmoney": "￥50.1",
+      "money": "￥59",
+      "discount": ""
+    },
+    {
+      "src": "../../static/img/flike1.jpg",
+      "tit1": "轻商务  防水自动折叠",
+      "lastmoney": "￥50.1",
+      "money": "￥59",
+      "discount": "感恩节特惠"
+    },
+    {
+      "src": "../../static/img/flike2.jpg",
+      "tit1": "韩国制作  高丽参浓缩",
+      "lastmoney": "￥199",
+      "money": "",
+      "discount": "满减"
+    },
+    {
+      "src": "../../static/img/flike3.jpg",
+      "tit1": "全价成猫粮1.8千克",
+      "lastmoney": "￥88",
+      "money": "￥99",
+      "discount": ""
+    },
+    {
+      "src": "../../static/img/flike4.jpg",
+      "tit1": "美式立体保暖羊毛床垫",
+      "lastmoney": "￥50.1",
+      "money": "￥59",
+      "discount": "感恩节特惠"
+    },
+    {
+      "src": "../../static/img/flike5.jpg",
+      "tit1": "秋冬加厚澳洲羊毛被",
+      "lastmoney": "￥50.1",
+      "money": "￥59",
+      "discount": ""
+    }
+  ],
+  "Fnew_aipels": [
+    {
+      "id": "001",
+      "src": "../../static/img/fnews1.jpg",
+      "tit1": "在线客服",
+      "tit2": "查看与客服的沟通记录"
+    },
+    {
+      "id": "002",
+      "src": "../../static/img/fnews2.jpg",
+      "tit1": "精选活动",
+      "tit2": "【盘点】2019年度“太难了”商品榜！"
+    },
+    {
+      "id": "003",
+      "src": "../../static/img/fnews3.jpg",
+      "tit1": "通知消息",
+      "tit2": "【有奖调研】最50元卷皮礼品卡！"
+    },
+    {
+      "id": "004",
+      "src": "../../static/img/fnews4.jpg",
+      "tit1": "互动消息",
+      "tit2": "暂无消息提示"
+    }
+  ],
+  "aipersons": [
+    {
+      "content": "下单后发什么快递？"
+    },
+    {
+      "content": "卷皮退换货流程"
+    },
+    {
+      "content": "双12怎么买更划算？"
+    },
+    {
+      "content": "速抢！0元领卷皮官方日历"
+    },
+    {
+      "content": "黑五感恩回馈；满299再送299黑五礼盒"
+    },
+    {
+      "content": "下单后发什么快递？"
+    },
+    {
+      "content": "如何申请退差价"
+    },
+    {
+      "content": "尺码推荐相关"
+    },
+    {
+      "content": "双12主战场，特惠来袭"
+    }
+  ],
+  "nextpages": [
+    {
+      "id": "001",
+      "src": "../../static/img/run1.jpg",
+      "tit": "温暖舒适床品"
+    },
+    {
+      "id": "002",
+      "src": "../../static/img/run2.jpg",
+      "tit": "冬日养生进补"
+    },
+    {
+      "id": "003",
+      "src": "../../static/img/run3.jpg",
+      "tit": "解馋必备小食解馋必备小食"
+    },
+    {
+      "id": "004",
+      "src": "../../static/img/run4.jpg",
+      "tit": "取暖防寒好物"
+    },
+    {
+      "id": "005",
+      "src": "../../static/img/run5.jpg",
+      "tit": "冬日必备保温杯具"
+    },
+    {
+      "id": "006",
+      "src": "../../static/img/run1.jpg",
+      "tit": "温暖舒适床品"
+    },
+    {
+      "id": "007",
+      "src": "../../static/img/run2.jpg",
+      "tit": "冬日养生进补冬日养生进补"
+    },
+    {
+      "id": "008",
+      "src": "../../static/img/run3.jpg",
+      "tit": "解馋必备小食"
+    },
+    {
+      "id": "009",
+      "src": "../../static/img/run4.jpg",
+      "tit": "取暖防寒好物"
+    },
+    {
+      "id": "010",
+      "src": "../../static/img/run5.jpg",
+      "tit": "冬日必备保温杯具"
+    },
+    {
+      "id": "011",
+      "src": "../../static/img/run3.jpg",
+      "tit": "取暖防寒好物"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+db/bankdb.json  是中国银行项目模拟数据
+netdb.json 是网易严选项目模拟数据
